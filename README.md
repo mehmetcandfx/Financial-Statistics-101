@@ -30,7 +30,10 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-    <img src="https://github.com/mehmetcandfx/Financial-Statistics-101/tree/main/Images/Picture 1.png alt="Logo" width="80" height="80">
+  <a href="https://github.com/github_username/repo_name">
+    <img src="Images/Picture 1.png" alt="Logo" width="80" height="80">
+    <img src="Images/Uva_logo.png" alt="Logo" width="80" height="80">
+  </a>
 
 <h3 align="center">Financial Statistics 101</h3>
 
