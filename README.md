@@ -30,7 +30,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-    <img src="https://github.com/mehmetcandfx/Financial-Statistics-101/tree/main/Images/Boun_logu.svg.png alt="Logo" width="80" height="80">
+    <img src="https://github.com/mehmetcandfx/Financial-Statistics-101/tree/main/Images/Picture 1.png alt="Logo" width="80" height="80">
 
 <h3 align="center">Financial Statistics 101</h3>
 
