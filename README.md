@@ -53,6 +53,13 @@
 
 
 <!-- ABOUT THE PROJECT -->
+## Contributors:
+
+<b>V2 Goals:</b><br>
+`Data connection with Yahoo Finance`<br>
+`More Robust analysis functions`<br>
+`Adopting Pandas functions `<br>
+
 
 ## Further Materials:
  <p align="left">
