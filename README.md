@@ -30,7 +30,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-    <img src="Images/Boun_logo.jpeg alt="Logo" width="80" height="80">
+    <img src="Images/Boun_logo.png alt="Logo" width="80" height="80">
 
 <h3 align="center">Financial Statistics 101</h3>
 
