@@ -30,9 +30,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/github_username/repo_name">
-    <img src="Images/Boun_logo.png alt="Logo" width="80" height="80">
-  </a>
+    <img src="Images/Boun_logo.jpeg alt="Logo" width="80" height="80">
 
 <h3 align="center">Financial Statistics 101</h3>
 
@@ -53,9 +51,7 @@
 
 
 <!-- ABOUT THE PROJECT -->
-## Contributors:
-
-<b>V2 Goals:</b><br>
+## V2 Goals:<br>
 `Data connection with Yahoo Finance`<br>
 `More Robust analysis functions`<br>
 `Adopting Pandas functions `<br>
